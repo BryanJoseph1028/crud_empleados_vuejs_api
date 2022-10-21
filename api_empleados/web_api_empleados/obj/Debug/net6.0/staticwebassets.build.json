@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4nFEqlm95qaI/MVVgfRbYzONQ7RKDTuZ9Z7rtCg6kJU=",
+  "Source": "web_api_empleados",
+  "BasePath": "_content/web_api_empleados",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
